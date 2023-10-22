@@ -2,6 +2,8 @@
 
 The University Management System is a robust and comprehensive relational database designed to manage, analyze, and report on university data, ranging from student information to course enrollments.
 
+![ER Diagram](./ER%20Diagram.png)
+
 ## Table of Contents
 
 - [Features](#features)
