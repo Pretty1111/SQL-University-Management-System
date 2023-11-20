@@ -26,7 +26,7 @@ The University Management System is a robust and comprehensive relational databa
 
 1. Clone the repository:
 
-  git clone https://github.com/YourUsername/UniversityManagementSystem.git
+  git clone https://github.com/Pretty1111/UniversityManagementSystem.git
 
 
 2. Navigate to the project directory:
@@ -48,7 +48,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Pretty Karibo - prettykaribo@gmail.com
 
-Project Link: [https://github.com/Pretty1111/SQL-UniversityManagementSystem](https://github.com/YourUsername/UniversityManagementSystem)
+Project Link: [https://github.com/Pretty1111/SQL-UniversityManagementSystem](https://github.com/Pretty1111/UniversityManagementSystem)
 
 
 
